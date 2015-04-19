@@ -1,0 +1,37 @@
+Items:
+
+Basic Potions: 
+Findable from between levels 1 to 5.
+Heals a Hero for 25 Health	
+
+Advanced Potions: 
+Findable from some higher level enemies before level 5, or from levels 5 to 25.
+Heals a Hero for 100 Health
+
+Super Potions: 
+Findable from levels 25 to 50.
+Heals Hero for Half theif Max Health
+
+Mega Potions: 
+Findable after level 50.
+Heals Hero to Full Health
+
+Revives: 
+A Semi-Rare drop from any Enemy.
+Brings a fainted hero to half health.
+
+Max Revives: 
+A Rare Drop from any Enemy
+Brings a fainted hero to full health.
+
+Weapons: 
+Have an Attack Boost that adds on to the Hero's Attack
+Have a Critial Hit Boost that adds on to the Hero's Critial
+Some may have a Damage over Time effect which hurts an enemy at the end of their turn, for x damage.
+Rarity varies on the Enemy.
+
+Armors: 
+Have a health boost that adds on to the Hero's Health
+Have a defense boost that adds on to the Hero's Defense
+Some may have a regen ability which heals the hero for x health at the end of their turn
+Rarity varies on the Enemy.

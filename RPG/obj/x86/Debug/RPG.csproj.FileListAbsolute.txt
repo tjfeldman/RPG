@@ -1,0 +1,212 @@
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPG\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\RPG\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPG\RPG\RPG\bin\Debug\RPG.exe
+D:\RPG\RPG\RPG\bin\Debug\RPG.pdb
+D:\RPG\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPG\RPG\bin\Debug\RPG.exe
+D:\RPG\RPG\bin\Debug\RPG.pdb
+D:\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dblab\Desktop\RPG\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\dblab\Desktop\RPG\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\dblab\Desktop\RPG\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\dblab\Desktop\RPG\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\dblab\Desktop\RPG\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPG\RPG\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG Homework\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG Homework\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG Homework\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG Homework\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+L:\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+L:\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\RPG Homework\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+L:\RPG Homework\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG Homework\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG Homework\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+L:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+L:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+L:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+L:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+L:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG Homework\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG Homework\RPGPriotyQueue\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG Homework\RPGPriotyQueue\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG Homework\RPGPriotyQueue\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG Homework\RPGPriotyQueue\RPGHW4\RPGWithList\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG Homework\RPGPriotyQueue\RPGHW4\RPGWithList\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG Homework\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG Homework\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG Homework\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG Homework\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.exe
+D:\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.pdb
+D:\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGPriotyQueue\RPGPriotyQueue\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.CharacterName.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\RPG Homework\RPGWithUI\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG Homework\RPGWithUI\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.UseDefault.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.YourClass.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GetTeam.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Cutscene.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Confirm.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.BattleField.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.BattleField.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.CharacterName.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Confirm.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Cutscene.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GetTeam.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.UseDefault.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.YourClass.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.EquipItem.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Inventory.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Popup.resources
+F:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.SelectTarget.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPG Homework\RPGWithUI\RPG\RPG\bin\Debug\RPG.exe
+D:\RPG Homework\RPGWithUI\RPG\RPG\bin\Debug\RPG.pdb
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.BattleField.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.CharacterName.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Confirm.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Cutscene.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.EquipItem.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GetTeam.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Inventory.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Popup.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.SelectTarget.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.UseDefault.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.YourClass.resources
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+L:\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.EquipItem.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Inventory.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Popup.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.SelectTarget.resources
+L:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+L:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\RPGWithUI\RPG\RPG\bin\Debug\RPG.exe
+D:\RPGWithUI\RPG\RPG\bin\Debug\RPG.pdb
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.BattleField.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.CharacterName.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Confirm.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Cutscene.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.EquipItem.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GetTeam.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Inventory.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Popup.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.SelectTarget.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.UseDefault.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.YourClass.resources
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.BattleField.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.CharacterName.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Confirm.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Cutscene.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.EquipItem.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GetTeam.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Inventory.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Popup.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.SelectTarget.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.UseDefault.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.YourClass.resources
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\RPGWithUI\RPG\RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\RPGWithUI\RPG\RPG\bin\Debug\RPG.exe
+F:\RPGWithUI\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Dungeon.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GoTo.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GameHelp.resources
+C:\Users\Tyler\Documents\RPG Homework\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.ItemInfo.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.BattleField.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.CharacterName.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Confirm.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Cutscene.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Dungeon.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.EquipItem.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GameHelp.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GetTeam.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.GoTo.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Inventory.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.ItemInfo.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Popup.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.SelectTarget.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.UseDefault.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.YourClass.resources
+C:\Users\Crow\Desktop\RPGWithUI\RPG\RPG\obj\x86\Debug\RPG.csproj.GenerateResource.Cache

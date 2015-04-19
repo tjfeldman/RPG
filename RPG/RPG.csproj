@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0066F144-BE61-4007-B917-B95CBDF03F14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RPG</RootNamespace>
+    <AssemblyName>RPG</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Advanced.cs" />
+    <Compile Include="Archer.cs" />
+    <Compile Include="Armor.cs" />
+    <Compile Include="Attacks.cs" />
+    <Compile Include="Basic.cs" />
+    <Compile Include="BattleField.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BattleField.Designer.cs">
+      <DependentUpon>BattleField.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boss.cs" />
+    <Compile Include="CharacterInfo.cs" />
+    <Compile Include="CharacterName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterName.Designer.cs">
+      <DependentUpon>CharacterName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Confirm.Designer.cs">
+      <DependentUpon>Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Confirmation.cs" />
+    <Compile Include="Crowman.cs" />
+    <Compile Include="Cutscene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cutscene.Designer.cs">
+      <DependentUpon>Cutscene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dungeon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dungeon.Designer.cs">
+      <DependentUpon>Dungeon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DungeonSetup.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="EquipItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EquipItem.Designer.cs">
+      <DependentUpon>EquipItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameHelp.Designer.cs">
+      <DependentUpon>GameHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetTeam.Designer.cs">
+      <DependentUpon>GetTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoTo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoTo.Designer.cs">
+      <DependentUpon>GoTo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Greater.cs" />
+    <Compile Include="Guard.cs" />
+    <Compile Include="Healer.cs" />
+    <Compile Include="Hero.cs" />
+    <Compile Include="Hero2.cs" />
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemInfo.Designer.cs">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List.cs" />
+    <Compile Include="Mage.cs" />
+    <Compile Include="MaxRevive.cs" />
+    <Compile Include="Mega.cs" />
+    <Compile Include="Minor.cs" />
+    <Compile Include="Ninja.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="Normal.cs" />
+    <Compile Include="NoTargetException.cs" />
+    <Compile Include="Popup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popup.Designer.cs">
+      <DependentUpon>Popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Potion.cs" />
+    <Compile Include="PriotyQueue.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Queue.cs" />
+    <Compile Include="Revive.cs" />
+    <Compile Include="Rogue.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="SaveLoad.cs" />
+    <Compile Include="Scout.cs" />
+    <Compile Include="SelectTarget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTarget.Designer.cs">
+      <DependentUpon>SelectTarget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shadow.cs" />
+    <Compile Include="Sniper.cs" />
+    <Compile Include="SpeedList.cs" />
+    <Compile Include="Stack.cs" />
+    <Compile Include="Super.cs" />
+    <Compile Include="Theif.cs" />
+    <Compile Include="UseDefault.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UseDefault.Designer.cs">
+      <DependentUpon>UseDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warrior.cs" />
+    <Compile Include="Weapon.cs" />
+    <Compile Include="Wizard.cs" />
+    <Compile Include="World.cs" />
+    <Compile Include="YourClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YourClass.Designer.cs">
+      <DependentUpon>YourClass.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BattleField.resx">
+      <DependentUpon>BattleField.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterName.resx">
+      <DependentUpon>CharacterName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Confirm.resx">
+      <DependentUpon>Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cutscene.resx">
+      <DependentUpon>Cutscene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dungeon.resx">
+      <DependentUpon>Dungeon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EquipItem.resx">
+      <DependentUpon>EquipItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameHelp.resx">
+      <DependentUpon>GameHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetTeam.resx">
+      <DependentUpon>GetTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoTo.resx">
+      <DependentUpon>GoTo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemInfo.resx">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup.resx">
+      <DependentUpon>Popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTarget.resx">
+      <DependentUpon>SelectTarget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UseDefault.resx">
+      <DependentUpon>UseDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YourClass.resx">
+      <DependentUpon>YourClass.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Ninja.jpg" />
+    <None Include="Sniper.jpg" />
+    <None Include="Shadow.jpg" />
+    <None Include="Resources\None.bmp" />
+    <None Include="Pacman.jpg" />
+    <None Include="Ms. Pacman.jpg" />
+    <None Include="Pinky.jpg" />
+    <None Include="Inky.jpg" />
+    <None Include="Wizard.jpg" />
+    <None Include="Warrior.jpg" />
+    <None Include="Thief.jpg" />
+    <None Include="Scout.jpg" />
+    <None Include="Rogue.jpg" />
+    <None Include="Mage.jpg" />
+    <None Include="Archer.jpg" />
+    <None Include="Guard.jpg" />
+    <None Include="Blinky.jpg" />
+    <None Include="Clyde.jpg" />
+    <None Include="Greater.jpg" />
+    <None Include="Crowman.jpg" />
+    <Content Include="Healer.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

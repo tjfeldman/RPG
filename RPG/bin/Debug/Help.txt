@@ -1,0 +1,22 @@
+To start playing click on the game tab and either start a new game or load a current save.
+
+On the dungeon screen, click on the button of the direction you would like to go in.
+Sometimes areas will only have one choice, but you can always head back to previous rooms to train up.
+Each area has a number of rooms you must progress FORWARD through to reach the boss at the end of each area.
+Once you beat a boss you will unlock the next area if you haven't already. 
+Also in the game tab, you can always go back to previous areas and face the enemies in that area.
+
+In the battle screen, you must select the target you would like to attack.
+Your allies do not follow the target you are targeting and to confirm your attack choice,
+you must push the attack button of the attack you would like to do.
+The display of the AI attacks is shown below and you can change that delay from 1 second to 10 seconds to suit your style
+Beware some attacks require a certain amount of energy depending on your level.
+You can also focus attacks and gain bonuses on your attacks using energy based on your level.
+You will gain up to 10% of your max energy at the end of each of your turns(using a potion counts as your turn)
+You will gain exp each time you defeat an enemy, but you will only gain the loot if you win the battle.
+
+If you lose a battle you will be forced to start back at the beginning of the area.
+If you win you will be able to continue on the track you are currently going.
+Each time you defeat a boss room, you will gain a special bonus.
+
+Can you beat all the bosses?
